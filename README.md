@@ -6,4 +6,5 @@ See RosieLLM for a beta version of what a smaller version of Osire would look li
 - Includes a very simple SDK for an LLM service
 
 See OsireLLM for the repository handling the LLM Service for Osire: [OsireLLM](http://github.com/a-miller77/OsireLLM)
+
 See OsireRAG for the repository handling the LLM Service for Osire: OsireRAG
